@@ -1,4 +1,4 @@
-Fuzz raw bytes in Burp, but also encoding normalisation is cool. This extension can be used to see what is being normalised and if it causes any weird behaviour.
+Fuzz raw bytes in Burp, but also unicode normalisation is cool. This extension can be used to see what is being normalised and if it causes any weird behaviour.
 
 See the following resources for potential attack vectors:
 
